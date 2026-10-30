@@ -1,0 +1,2 @@
+dataset souce WA_Fn-UseC_-Telco-Customer-Churn 
+https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn
